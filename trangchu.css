@@ -23,14 +23,14 @@ body {
   float: left;
   min-height: 400px;
 }
-#footer h4{
-  background:#DF7401;
+#footer{
+  background:#000;
   width: 1000px;
+  text-align: center;
   height: 60px;
   color: #fff;
-  float: left;
-  line-height: 23px;
-  text-align: center;
+  clear: left;
+  line-height: 60px;
 }
 #menu_top ul {
   margin: 0px;
@@ -113,3 +113,14 @@ body {
   padding: 0px;
   float: right;
 }
+#footer h4{
+  text-align: center;
+
+}
+#footer{
+  background:#DF7401;
+  width: 1000px;
+  height: 60px;
+  color: #fff;
+  float: left;
+  line-height: 23px;
